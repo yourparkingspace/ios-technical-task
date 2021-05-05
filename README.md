@@ -14,7 +14,7 @@ Some things to consider:
 
 We appreciate that everyone is busy and has other obligations. Not everyone can spend loads of time on a technical task. So to level the field we request that you don't spend any longer than 3 hours on this task.
 
-Please create a private git repository (ideally github) and commit your code there as you work on it, this will show us how you use git and how quickly you did the task.
+Please create a git repository and commit your code as you work on it, this will show us how you use git and how quickly you did the task.
 
 Once you are done, send a bundle* of your repo so that we may evaluate your code.
 
