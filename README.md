@@ -16,4 +16,6 @@ We appreciate that everyone is busy and has other obligations. Not everyone can 
 
 Please create a private git repository (ideally github) and commit your code there as you work on it, this will show us how you use git and how quickly you did the task.
 
-Once you are done, please add **jackcolley** to your github repo with read access so that we may evaluate your code.
+Once you are done, send a bundle* of your repo so that we may evaluate your code.
+
+* https://git-scm.com/docs/git-bundle
