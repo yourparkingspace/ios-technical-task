@@ -14,4 +14,6 @@ As a guideline the task should take around 3 hours to complete.
 
 Please create a git repository and commit your code as you work on it.
 
+If you encounter any problems obtaining an API key, or if you have any questions as you work then please feel free to reach out to @dsmailes or @AndyPepper
+
 Once you are done, invite @dsmailes and @AndyPepper to your repo.
