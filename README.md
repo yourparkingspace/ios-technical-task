@@ -1,10 +1,8 @@
-![Netsells Logo](https://www.dropbox.com/s/4jmsg7xvcfnyfbk/logo_name_300.png?raw=1)
+# YourParkingSpace iOS Technical Task
 
-# iOS Technical Task
+We would like you to develop a small app in Swift that lets users search for a movie using [The Open Movie Database](http://www.omdbapi.com) and display some core information about it.
 
-We would like you to complete a small app in Swift that lets you search for a movie using [The Open Movie Database](http://www.omdbapi.com) and display some core information about it.
-
-This isn't a design task so don't worry too much about UI/UX - a tableview or collection view would be fine unless you have something custom you would like to implement.
+We would like you to use SwiftUI to complete this task.
 
 Some things to consider:
 * Multiple Results
@@ -12,10 +10,8 @@ Some things to consider:
 * Unit Tests
 * Handling offline situations gracefully
 
-We appreciate that everyone is busy and has other obligations. Not everyone can spend loads of time on a technical task. So to level the field we request that you don't spend any longer than 3 hours on this task.
+As a guideline the task should take around 3 hours to complete.
 
-Please create a git repository and commit your code as you work on it, this will show us how you use git and how quickly you did the task.
+Please create a git repository and commit your code as you work on it.
 
-Once you are done, send a bundle* of your repo so that we may evaluate your code.
-
-* https://git-scm.com/docs/git-bundle
+Once you are done, invite @dsmailes and @AndyPepper to your repo.
