@@ -16,4 +16,4 @@ Please create a git repository and commit your code as you work on it.
 
 If you encounter any problems obtaining an API key, or if you have any questions as you work then please feel free to reach out to @dsmailes
 
-Once you are done, invite @dsmailes to your repo.
+Once you are done, invite @dsmailes to your repo as a collaborator.
